@@ -3,8 +3,8 @@ import { ChevronDown } from "lucide-react";
 import Image from "next/image";
 export default function Header() {
   return (
-    <nav className="bg-white text-slate-500 font-bold border-b border-border px-10 py-3">
-      <div className="max-w-7xl mx-auto flex items-center justify-between">
+    <nav className="bg-white text-slate-500 font-bold border-b border-border px-10 py-2 sm:py-4">
+      <div className="flex items-center justify-between">
         <div className="flex items-center space-x-13">
           <div className="flex items-center space-x-2">
             <Image src="/assets/logo.svg" alt="logo" width={150} height={150} />
