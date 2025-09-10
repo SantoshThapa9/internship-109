@@ -1,10 +1,5 @@
 import type { NextConfig } from "next";
 
-const nextConfig: NextConfig = {
-  images: {
-    domains: ["files.codingninjas.com", "files.codingninjas.in"],
-  },
-  /* config options here */
-};
+const nextConfig: NextConfig = {};
 
 export default nextConfig;

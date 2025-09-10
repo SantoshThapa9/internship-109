@@ -3,7 +3,7 @@ import Image from "next/image";
 export function OfferingsSection() {
   return (
     <div className="flex gap-6 bg-gray-50 ">
-      <div className="w-[3.5px] h-all bg-gray-800 ml-5" />
+      <div className="w-[3px] h-all bg-gray-800 ml-5" />
       <section className="py-16 px-4 ">
         <div className="max-w-7xl mx-auto text-gray-900">
           <div className="text-center mb-12">
@@ -134,9 +134,9 @@ export function OfferingsSection() {
                   <Image
                     height={100}
                     width={100}
-                    src="https://files.codingninjas.com/space-gray-from-figma-1733395549.webp"
-                    alt="Certification"
+                    src="/certificate/cert3.webp"
                     className="w-full h-32 object-cover rounded mb-4"
+                    alt="Certification"
                   />
                   <h3 className="font-semibold mb-2">
                     PG Certification in Data Analytics with GenAI
@@ -158,9 +158,9 @@ export function OfferingsSection() {
                   <Image
                     height={100}
                     width={100}
-                    src="https://files.codingninjas.com/output-onlinepngtools-1-1742818734.webp"
-                    alt="Certification"
+                    src="/certificate/cert1.webp"
                     className="w-full h-32 object-cover rounded mb-4"
+                    alt="Certification"
                   />
                   <h3 className="font-semibold mb-2">
                     Advanced Certification in GenAI for Non-Tech Professionals
@@ -182,7 +182,7 @@ export function OfferingsSection() {
                   <Image
                     height={100}
                     width={100}
-                    src="https://files.codingninjas.com/output-onlinepngtools-1-1742818734.webp"
+                    src="/certificate/cert1.webp"
                     alt="Certification"
                     className="w-full h-32 object-cover rounded mb-4"
                   />
@@ -207,7 +207,7 @@ export function OfferingsSection() {
                   <Image
                     height={100}
                     width={100}
-                    src="https://files.codingninjas.in/professional-programmer-working-late-dark-office-2-1756903656.webp"
+                    src="/certificate/cert2.webp"
                     alt="Certification"
                     className="w-full h-32 object-cover rounded mb-4"
                   />
@@ -231,7 +231,7 @@ export function OfferingsSection() {
                   <Image
                     height={100}
                     width={100}
-                    src="https://files.codingninjas.com/output-onlinepngtools-1-1742818734.webp"
+                    src="/certificate/cert1.webp"
                     alt="Certification"
                     className="w-full h-32 object-cover rounded mb-4"
                   />
