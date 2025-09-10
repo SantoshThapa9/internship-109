@@ -13,9 +13,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "projects Coding Ninjas - Get the tech career you deserve. Faster.",
+  title: "Coding Ninjas Clone - Get the Tech Career You Deserve. Faster.",
   description:
-    "Transform your tech career with Coding Ninjas. 1.5 Lac+ learners cracked top tech companies. 128% average hike via our placement cell.",
+    "Transform your tech career with our Coding Ninjas clone platform. 1.5 Lac+ learners cracked top tech companies with 128% average salary hike.",
 };
 
 export default function RootLayout({
