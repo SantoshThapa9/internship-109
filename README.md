@@ -9,7 +9,7 @@ The application showcases course offerings, career-focused content, and a user f
 ## 🚀 Live Demo
 
 Deployed on Vercel:
-https://vercel.com/nic986s-projects/internship-109/EPZ5fX3hp4ijvCN79h3E8BtnT8yX
+https://internship-109.vercel.app/
 
 ## 🛠️ Tech Stack
 
